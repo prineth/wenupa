@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/lahiru-udawaththa/">
+<a href="https://www.linkedin.com/in/wenupa-mandinu-a78a161b6/">
   <img src="https://img.shields.io/badge/-wenupa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenupa-630155147/" />
 </a>
 <a href="mailto:ab12mandinu@gmail.com">
