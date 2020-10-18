@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-wenupa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenupa-630155147/" />
 </a>
 <a href="mailto:ab12mandinu@gmail.com">
-  <img src="https://img.shields.io/badge/-ab12mandinu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ab12mandinu@gmail.com" />
+  <img src="https://img.shields.io/badge/-pornhub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ab12mandinu@gmail.com" />
 </a>
 <a href="https://dev.to/wenupa">
   <img src="https://img.shields.io/badge/DEV.to-wenupa-black" />
